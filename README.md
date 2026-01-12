@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/norma2026/norma2026/main/banner.jpeg" alt="Banner Norma Garcia" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/norma2026/norma2026/main/norma-banner.jpeg" alt="Banner Norma Garcia" style="width:100%;"/>
+
 
 ### Ciao, sono Norma Garcia! 👋
 
