@@ -7,7 +7,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[(https://raw.githubusercontent.com/norma2026/norma2026/refs/heads/main/snake.svg)]"  />
 
 ###
 
