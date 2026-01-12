@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Snake — Norma2026</title>
+  <title> Norma2026</title>
   <style>
     body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial; background:#fafafa; color:#222; text-align:center; padding:2rem; }
     .container { max-width:980px; margin:0 auto; }
