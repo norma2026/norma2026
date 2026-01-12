@@ -1,4 +1,5 @@
-![snake](https://raw.githubusercontent.com/norma2026/norma2026/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/norma2026/norma2026/main/snake.1.svg)
+
 
 
 ---
