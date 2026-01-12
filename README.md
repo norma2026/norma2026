@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">
+
 ### Ciao, sono Norma Garcia! 👋<br><br>Sono una professionista con oltre 20 anni di esperienza internazionale (Brasile, Portogallo, Italia) nella gestione aziendale, formazione e vendite. <br><br>Attualmente sono in una **fase di transizione tecnologica**: sto unendo la mia solida esperienza manageriale con nuove competenze tecniche per automatizzare processi e analizzare dati.<br><br>🌱 **Il mio percorso attuale**<br>Non sono (ancora) una sviluppatrice software pura. Sono una **Business Agility Mentor** che sta imparando a usare il codice per risolvere problemi reali.<br>*   🎓 Sto studiando **Data Science** (Python, SQL, Power BI) presso *Daxus Academy*.<br>*   🛡️ Mi sto formando in **Cyber Security** presso *Visione Academy* per proteggere gli asset aziendali.<br><br>🔭 **Cosa trovi qui**<br>In questo profilo condivido i miei progressi di studio, esercizi e primi progetti pratici focalizzati su:<br>*   **AI Automation:** Creazione di Agenti AI per la produttività aziendale (Certificata Livello Avanzato).<br>*   **Data Analysis:** Script Python per la manipolazione dati (Librerie Pandas/NumPy in apprendimento).<br>*   **Prompt Engineering:** Ottimizzazione dei flussi di lavoro con LLM.<br><br>⚡ **Il mio "Superpotere"**<br>La mia forza non è solo il codice, ma la capacità di **"tradurre" la tecnologia complessa** in azioni pratiche per le persone e le aziende, grazie al mio background pedagogico.<br><br>📫 **Connettiamoci**<br>Sono sempre felice di imparare da sviluppatori più esperti e di condividere la mia visione sul business digitale.<br>* <br>---<br>*“Imparando ogni giorno a trasformare i dati in decisioni e la tecnologia in soluzioni umane.”*</p>
 
 ###
