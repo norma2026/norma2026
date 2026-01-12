@@ -1,4 +1,4 @@
-name: Generate Snake
+nname: Generate Snake
 
 on:
   schedule:
@@ -11,6 +11,19 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: norma2026
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
+
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generate contribution snake"
+          add: "output/github-contribution-grid-snake.svg"
 
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
