@@ -1,30 +1,39 @@
-### Ciao, sono Norma Garcia! 👋
-
-Sono una professionista con oltre 20 anni di esperienza internazionale (Brasile, Portogallo, Italia) nella gestione aziendale, formazione e vendite. 
-
-Attualmente sono in una **fase di transizione tecnologica**: sto unendo la mia solida esperienza manageriale con nuove competenze tecniche per automatizzare processi e analizzare dati.
-
-🌱 **Il mio percorso attuale**  
-Non sono (ancora) una sviluppatrice software pura. Sono una **Business Agility Mentor** che sta imparando a usare il codice per risolvere problemi reali.  
-* 🎓 Sto studiando **Data Science** (Python, SQL, Power BI) presso *Daxus Academy*.  
-* 🛡️ Mi sto formando in **Cyber Security** presso *Vision Academy* per proteggere gli asset aziendali.
-
-🔭 **Cosa trovi qui**  
-In questo profilo condivido i miei progressi di studio, esercizi e primi progetti pratici focalizzati su:  
-* **AI Automation**  
-* **Data Analysis**  
-* **Prompt Engineering**
-
-⚡ **Il mio "Superpotere"**  
-La mia forza non è solo il codice, ma la capacità di **"tradurre" la tecnologia complessa** in azioni pratiche per le persone e le aziende.
+<!-- Snake animation -->
+![snake](https://raw.githubusercontent.com/norma2026/norma2026/output/github-contribution-grid-snake.svg)
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/norma2026/norma2026/refs/heads/main/snake.svg)
+## 👋 Ciao, sono Norma Garcia
+
+### Costruisco il mio futuro nell’AI Automation e nella Data Science, unendo tecnologia, neuroscienze e agilità per creare valore reale.
 
 ---
 
-### 🛠️ Tecnologie che sto imparando
+## 🌱 Il mio percorso attuale
+
+Sono una professionista con oltre 20 anni di esperienza internazionale (Brasile, Portogallo, Italia) nella gestione aziendale, formazione e vendite.  
+Oggi sto unendo questa esperienza con nuove competenze tecniche per creare soluzioni intelligenti e orientate al business.
+
+- 🎓 Studio **Data Science** (Python, SQL, Power BI) presso **Daxus Academy**  
+- 🛡️ Mi formo in **Cyber Security** presso **Vision Academy**  
+- 🤖 Mi specializzo in **AI Automation** e **Prompt Engineering**  
+- 🚀 Obiettivo: integrare tecnologia e agilità per trasformare processi aziendali
+
+---
+
+## 🔭 Cosa trovi qui
+
+In questo profilo condivido:
+
+- Esercizi e progetti dei miei studi tecnici  
+- Automazioni AI  
+- Analisi dati  
+- Prime applicazioni pratiche di coding  
+- Documentazione del mio percorso di transizione tecnologica  
+
+---
+
+## 🛠️ Tecnologie che sto imparando
 
 <div style="display: flex; gap: 10px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
@@ -38,29 +47,20 @@ La mia forza non è solo il codice, ma la capacità di **"tradurre" la tecnologi
 
 ---
 
-### 🎓 Formazione
+## 🎓 Formazione
 
 - **Daxus Academy** — Data Science (Python, SQL, Power BI)  
-- **Vision Academy** — Cyber Security (Protezione degli asset aziendali)
+- **Vision Academy** — Cyber Security (Protezione degli asset aziendali)  
 
 ---
 
-<div align="center"><strong>Commettiamo</strong></div>
-
----
+## 📫 Contatti
 
 <div align="center">
   <a href="https://www.linkedin.com/in/garcia-norma/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.youtube.com/@guidaIA">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
 </div>
-
----
-
-*“Imparando ogni giorno a trasformare i dati in decisioni e la tecnologia in soluzioni umane.”*
 
 
 
