@@ -1,6 +1,3 @@
-<img src="https://raw.githubusercontent.com/norma2026/norma2026/main/norma-banner.jpeg" alt="Banner Norma Garcia" style="width:100%;"/>
-
-
 ### Ciao, sono Norma Garcia! 👋
 
 Sono una professionista con oltre 20 anni di esperienza internazionale (Brasile, Portogallo, Italia) nella gestione aziendale, formazione e vendite. 
